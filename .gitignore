@@ -22,8 +22,8 @@ yarn-error.log*
 
 
 ### Code ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode-root/*
+!.vscode-root/settings.json
+!.vscode-root/tasks.json
+!.vscode-root/launch.json
+!.vscode-root/extensions.json
