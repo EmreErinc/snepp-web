@@ -1,6 +1,0 @@
-Loaded bundled typescript@3.6.3.
-Vetur initialized
-{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.
-[Error - 1:00:55 AM] Request textDocument/codeAction failed.
-  Message: Request textDocument/codeAction failed with message: Debug Failure.
-  Code: -32603 
